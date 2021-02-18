@@ -1,0 +1,18 @@
+{
+  "name": "yxtools",
+  "description": "yxtools is www.yixiongkeji.com tools",
+  "version": "1.0.0",
+  "type": "library",
+  "authors": [
+      {
+        "name": "lzy",
+        "email": "nemengv1@163.com"
+      }
+  ],
+  "require": {
+    "symfony/var-dumper": "*"
+  },
+  "autoload": {
+    "files": ["src/*"]
+  }
+}
