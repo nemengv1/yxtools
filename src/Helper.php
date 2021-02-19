@@ -42,6 +42,5 @@ if (!function_exists('yx_arrayUniqueFb')) {
     function yx_arrayUniqueFb($array2D){
 
         return ArrayTools::arrayUniqueFb($array2D);
-        
     }
 }
