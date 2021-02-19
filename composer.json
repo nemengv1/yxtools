@@ -2,7 +2,6 @@
   "name": "yxtools/yxtools",
   "description": "yxtools is www.yixiongkeji.com tools",
   "version": "1.0.0",
-  "type": "library",
   "authors": [
       {
         "name": "lzy",
