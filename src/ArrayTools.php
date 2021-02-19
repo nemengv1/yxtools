@@ -16,7 +16,7 @@ class ArrayTools{
      * @param array $array2D
      * @return multitype:
      */
-    public function arrayUniqueFb($array2D){
+    public static function arrayUniqueFb($array2D){
 
         $data = array();
         if(!empty($array2D)){
