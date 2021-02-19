@@ -13,6 +13,6 @@
     "symfony/var-dumper": "*"
   },
   "autoload": {
-    "files": ["src/*"]
+    "files": ["src/Helper.php"]
   }
 }
