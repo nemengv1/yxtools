@@ -2,6 +2,7 @@
   "name": "nemengv1/yxtools",
   "description": "yxtools is www.yixiongkeji.com tools1",
   "version": "1.0.0",
+  "license": "MIT",
   "authors": [
       {
         "name": "lzy",
