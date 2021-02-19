@@ -5,5 +5,5 @@ namespace yxtools;
 
 
 function test(){
-    echo 1123123;die();
+    echo 11231213;die();
 }
